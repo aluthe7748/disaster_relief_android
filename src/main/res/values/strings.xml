@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Disaster Relief</string>
+    <string name="update_numbers">Update Local Phone Numbers</string>
+    <string name="local_police">Local Police</string>
+    <string name="local_state_highway">Local State Highway</string>
+    <string name="local_medical">Local Medical</string>
+    <string name="local_utility">Local Utilities</string>
+    <string name="phone_ex">XXXXXXXXXX</string>
+</resources>
